@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sporting App</string>
+    <string name="txt_not_starting">No Starting Yet</string>
+    <string name="txt_events">Events</string>
+    <string name="txt_lives">Lives</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
